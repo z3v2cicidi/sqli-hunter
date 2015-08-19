@@ -18,6 +18,7 @@ gem install bundle
 bundle install
 ```
 
+## gem install rdoc-data
 ## 0x2 Usage
 
 ```
