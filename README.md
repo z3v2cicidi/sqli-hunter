@@ -14,11 +14,12 @@ SQLi-Hunter is a simple HTTP proxy server and a sqlmap api wrapper that makes di
 git clone https://github.com/sqlmapproject/sqlmap.git
 git clone https://github.com/zt2/sqli-hunter.git
 cd sqli-hunter
+gem install rdoc-data
 gem install bundle
 bundle install
 ```
 
-## gem install rdoc-data
+
 ## 0x2 Usage
 
 ```
